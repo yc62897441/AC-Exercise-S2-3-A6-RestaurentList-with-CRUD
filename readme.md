@@ -3,6 +3,10 @@ Alpha camp Semester2-3 A6 Restaurent List with CRUD
 
 ![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A6-RestaurentList-with-CRUD/blob/main/images/sample001.jpg?raw=true)
 
+![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A6-RestaurentList-with-CRUD/blob/main/images/sample002.jpg?raw=true)
+
+![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A6-RestaurentList-with-CRUD/blob/main/images/sample003.jpg?raw=true)
+
 ## Environment & Prerequisites
 
 nvm: 1.1.9
