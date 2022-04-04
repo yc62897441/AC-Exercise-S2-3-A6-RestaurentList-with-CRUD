@@ -24,7 +24,7 @@ mongoose: ^6.2.9
 ## Installing and Execution
 1. Clone projet to your localhost
 ```
-git clone hhttps://github.com/yc62897441/AC-Exercise-S2-3-A6-RestaurentList-with-CRUD.git
+git clone https://github.com/yc62897441/AC-Exercise-S2-3-A6-RestaurentList-with-CRUD.git
 ```
 
 2. change directory to project file "AC-Exercise-S2-3-A6-RestaurentList-with-CRUD"
